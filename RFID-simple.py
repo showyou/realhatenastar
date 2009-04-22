@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#! -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """Copyright 2008 Phidgets Inc.
 This work is licensed under the Creative Commons Attribution 2.5 Canada License. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by/2.5/ca/
